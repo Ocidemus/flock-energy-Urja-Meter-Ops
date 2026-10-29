@@ -47,3 +47,7 @@ Thumbs.db
 DECISIONS.md
 decision.md
 DECISION.md
+
+*.pdf
+*.html
+*pdf*.py
